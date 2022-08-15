@@ -1,4 +1,4 @@
-# Emergency Distress CS3030
+# Emergency Locater
 **CS3030 - Final Project**
 <br>
 @authors: `Lucas, Nathan and Tyler`
