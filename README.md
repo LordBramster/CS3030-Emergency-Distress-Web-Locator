@@ -1,4 +1,5 @@
-# Emergency Locater
+# Emergency and Distress Web Locator
 **CS3030 - Final Project**
 <br>
-@authors: `Lucas, Nathan and Tyler`
+Contributors: `Tyler, Nathan, Lucas`
+Project expands on complex topics like the Django Framework, decorators, iterators, generators, lambdas.
